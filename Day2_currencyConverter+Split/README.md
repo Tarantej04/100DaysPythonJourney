@@ -43,10 +43,18 @@ Run the script:
 python tip_currency_splitter.py
 
 ✨ Example Output
+
 💰 Welcome to Currency Converter and Splitter 💰
+
 Enter the amount you want to split in USD: 100
+
 Enter the tip percentage you want to give: 10
+
 Enter the number of people you are splitting the bill amongst: 2
+
 Enter the Target currency code (like INR, JPY, EUR...): INR
+
 💱 Current exchange rate: 1 USD = 83.24 INR
+
 The Bill after splitting and converting into INR is: 4583.2
+
