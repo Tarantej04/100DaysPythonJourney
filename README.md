@@ -5,8 +5,11 @@ Tracking my journey from beginner to confident Python coder — one day, one pro
 📚 Overview
 
 This repository contains all my projects and exercises from the 100 Days of Python course. Each day’s folder includes:
+
 ->Python code files (.py)
+
 ->A short README describing what I learned and built
+
 ->Creative twists on the course projects to show personal understanding and style
 
 🔗 How to Run
