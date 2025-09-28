@@ -1,4 +1,5 @@
-~100 Days of Python 🐍✨~
+100 Days of Python 🐍✨
+
 Tracking my journey from beginner to confident Python coder — one day, one project at a time!
 
 📚 Overview
