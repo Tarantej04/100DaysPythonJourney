@@ -15,7 +15,7 @@ This repository contains all my projects and exercises from the 100 Days of Pyth
 🔗 How to Run
 
 1.Clone this repo:
-  git clone https://github.com/yourusername/100-Days-of-Python.git
+  git clone https://github.com/Tarantej04/100DaysPythonJourney.git
 
 2.Navigate to the folder of the day/project you want to run
 
