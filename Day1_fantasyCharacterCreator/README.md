@@ -12,7 +12,7 @@ Features
 
 -Fun ASCII art to make the experience visually appealing
 
-Example Output
+Example Output: 
 ✨✨Let's welcome The Mystic Crimson Dragon!!🥳
 
 Skills Practiced
