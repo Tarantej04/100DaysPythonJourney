@@ -1,0 +1,15 @@
+# 🧭 Reeborg's World Maze Solver
+# Note: This code runs only in the Reeborg's World environment (https://reeborg.ca)
+# The functions like move(), turn_left(), wall_in_front() etc. are predefined there.
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+while not at_goal():
+    if not wall_in_front():
+        move()
+    elif right_is_clear():
+        turn_right()
+        move()
+    else:
+        turn_left()
