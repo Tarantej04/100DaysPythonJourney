@@ -16,7 +16,7 @@ A simple interactive calculator built in Python that performs basic arithmetic o
 
 ## ⚙️ How to Run
 
-Clone this repository or copy the project files.
+Clone this repository or copy the project files
 
 Ensure the following file is in the same folder:
 
